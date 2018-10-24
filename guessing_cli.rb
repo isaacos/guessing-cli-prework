@@ -19,7 +19,7 @@ def run_guessing_game
     else
       puts "The computer guessed #{rand_num}."
      
-      user_guess = gets.chomp.to_i
+     
     end
 
   end
